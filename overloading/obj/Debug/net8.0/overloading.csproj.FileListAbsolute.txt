@@ -1,0 +1,15 @@
+C:\Users\dvecy\OneDrive\Belgeler\Development\overloading\overloading\bin\Debug\net8.0\overloading.exe
+C:\Users\dvecy\OneDrive\Belgeler\Development\overloading\overloading\bin\Debug\net8.0\overloading.deps.json
+C:\Users\dvecy\OneDrive\Belgeler\Development\overloading\overloading\bin\Debug\net8.0\overloading.runtimeconfig.json
+C:\Users\dvecy\OneDrive\Belgeler\Development\overloading\overloading\bin\Debug\net8.0\overloading.dll
+C:\Users\dvecy\OneDrive\Belgeler\Development\overloading\overloading\bin\Debug\net8.0\overloading.pdb
+C:\Users\dvecy\OneDrive\Belgeler\Development\overloading\overloading\obj\Debug\net8.0\overloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dvecy\OneDrive\Belgeler\Development\overloading\overloading\obj\Debug\net8.0\overloading.AssemblyInfoInputs.cache
+C:\Users\dvecy\OneDrive\Belgeler\Development\overloading\overloading\obj\Debug\net8.0\overloading.AssemblyInfo.cs
+C:\Users\dvecy\OneDrive\Belgeler\Development\overloading\overloading\obj\Debug\net8.0\overloading.csproj.CoreCompileInputs.cache
+C:\Users\dvecy\OneDrive\Belgeler\Development\overloading\overloading\obj\Debug\net8.0\overloading.sourcelink.json
+C:\Users\dvecy\OneDrive\Belgeler\Development\overloading\overloading\obj\Debug\net8.0\overloading.dll
+C:\Users\dvecy\OneDrive\Belgeler\Development\overloading\overloading\obj\Debug\net8.0\refint\overloading.dll
+C:\Users\dvecy\OneDrive\Belgeler\Development\overloading\overloading\obj\Debug\net8.0\overloading.pdb
+C:\Users\dvecy\OneDrive\Belgeler\Development\overloading\overloading\obj\Debug\net8.0\overloading.genruntimeconfig.cache
+C:\Users\dvecy\OneDrive\Belgeler\Development\overloading\overloading\obj\Debug\net8.0\ref\overloading.dll
